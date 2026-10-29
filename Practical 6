@@ -1,0 +1,12 @@
+// Practical 6: Increase and decrease
+
+let count = 10;
+
+count++;
+count++;
+
+console.log(count);
+
+count--;
+
+console.log(count);
