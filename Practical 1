@@ -1,0 +1,9 @@
+// Practical 1: Print your details
+
+let name = "Dhananjay";
+let age = 20;
+let city = "Pune";
+
+console.log("My name is " + name);
+console.log("My age is " + age);
+console.log("I live in " + city);
