@@ -1,0 +1,11 @@
+// Practical 5: Shopping bill
+
+let money = 1000;
+let shirt = 250;
+let shoes = 150;
+
+money -= shirt;
+console.log(money);
+
+money -= shoes;
+console.log(money);
