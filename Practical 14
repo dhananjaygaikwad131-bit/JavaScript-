@@ -1,0 +1,7 @@
+// Shopping Eligibility.
+
+let money = 1500;
+let itemPrice = 1000;
+let isMember = true;
+
+console.log(money >= itemPrice && isMember);
