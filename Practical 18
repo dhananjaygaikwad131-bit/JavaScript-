@@ -1,0 +1,6 @@
+// Discount Eligibility.
+
+let totalAmount = 2000;
+let isMember = true;
+
+console.log(totalAmount >= 1500 && isMember);
