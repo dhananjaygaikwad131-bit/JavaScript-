@@ -1,0 +1,6 @@
+// Free Delivery.
+
+let totalAmount = 1200;
+let isMember = true;
+
+console.log(totalAmount >= 1000 && isMember);
