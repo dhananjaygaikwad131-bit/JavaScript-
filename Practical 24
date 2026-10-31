@@ -1,0 +1,7 @@
+// Job Eligibility.
+
+let age = 25;
+let hasDegree = true;
+let experience = 2;
+
+console.log(age >= 18 && hasDegree && experience >= 2);
