@@ -1,0 +1,7 @@
+// Insurance Eligibility.
+
+let age = 35;
+let isEmployed = false;
+let isSelfEmployed = true;
+
+console.log(age >= 18 && age < 60 && (isEmployed || isSelfEmployed));
