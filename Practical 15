@@ -1,0 +1,6 @@
+// Movie Eligibility.
+
+let age = 20;
+let hasPermission = false;
+
+console.log(age >= 18 || hasPermission);
