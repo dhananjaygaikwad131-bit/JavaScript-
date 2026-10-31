@@ -1,0 +1,15 @@
+// Shopping Bill Calculator.
+
+let customerName = "Rahul";
+let item1 = 500;
+let item2 = 800;
+let item3 = 300;
+let money = 2000;
+let isMember = true;
+let total = item1 + item2 + item3;
+
+console.log(customerName);
+console.log(total);
+console.log(money - total);
+console.log(money >= total);
+console.log(total >= 1000 && isMember);
