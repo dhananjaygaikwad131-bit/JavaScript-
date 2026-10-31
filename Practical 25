@@ -1,0 +1,7 @@
+// Account Access.
+
+let username = "user123";
+let passwordCorrect = true;
+let accountActive = true;
+
+console.log(username === "user123" && passwordCorrect && accountActive);
