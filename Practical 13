@@ -1,0 +1,5 @@
+// Reverse Boolean.
+
+let isLoggedIn = true;
+
+console.log(!isLoggedIn);
