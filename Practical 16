@@ -1,0 +1,5 @@
+// Number Is Not Zero.
+
+let number = 10;
+
+console.log(!number === 0);
