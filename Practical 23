@@ -1,0 +1,6 @@
+// Exam Eligibility.
+
+let attendance = 85;
+let feesPaid = true;
+
+console.log(attendance >= 75 && feesPaid);
