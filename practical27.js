@@ -1,0 +1,7 @@
+// Check scholarship eligibility.
+
+let marks = 85;
+let goodAttendance = false;
+let financialNeed = true;
+
+console.log(marks >= 80 && (goodAttendance || financialNeed));

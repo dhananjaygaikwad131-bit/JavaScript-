@@ -1,0 +1,9 @@
+// Checl loan eligibility.
+
+let age = 30;
+let monthlyIncome = 30000;
+let goodCreditScore = false;
+let hasBankAccount = true;
+
+
+console.log(age >= 21 && monthlyIncome >= 25000 && (goodCreditScore || hasBankAccount));

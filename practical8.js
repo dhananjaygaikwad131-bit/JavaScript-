@@ -1,0 +1,8 @@
+// Compare 2 ages.
+
+let age1 = 55;
+let age2 = 34;
+
+console.log(age1>age2);
+console.log(age1<age2);
+console.log(age1===age2);

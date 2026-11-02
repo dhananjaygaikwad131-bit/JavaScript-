@@ -1,0 +1,8 @@
+// Check travel eligibility.
+
+
+let passportValid = true;
+let hasVisa = false;
+let visaFreePermission = true;
+
+console.log(passportValid && (hasVisa || visaFreePermission));

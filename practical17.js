@@ -1,0 +1,6 @@
+// Check login access.
+
+let userCorrect = true;
+let passwordCorrect = false;
+
+console.log(userCorrect && passwordCorrect);

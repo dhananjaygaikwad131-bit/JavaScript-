@@ -1,0 +1,7 @@
+// Final challenging practical.
+
+let age = 25;
+let monthlyIncome = 30000;
+let businessExperience = 4;
+
+console.log(age >= 21 && (monthlyIncome >= 50000 || businessExperience >= 3));
