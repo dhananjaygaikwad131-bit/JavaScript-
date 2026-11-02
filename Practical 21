@@ -1,6 +1,0 @@
-// Online Shopping Offer.
-
-let totalAmount = 2500;
-let isMember = false;
-
-console.log(totalAmount >= 2000 || isMember);
