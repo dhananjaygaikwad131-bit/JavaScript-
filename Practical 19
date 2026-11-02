@@ -1,6 +1,0 @@
-// Age and Permission.
-
-let age = 16;
-let hasPermission = true;
-
-console.log(age >= 18 || hasPermission);
