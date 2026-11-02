@@ -1,5 +1,0 @@
-// Practical 10: Number or text?
-
-console.log(10 === "10");
-console.log(10 !== "10");
-console.log(10 === 10);
