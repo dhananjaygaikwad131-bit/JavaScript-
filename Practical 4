@@ -1,7 +1,0 @@
-// Practical 4: Update a variable
-
-let age = 24;
-
-age = 55;
-
-console.log(age);
